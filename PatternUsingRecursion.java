@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class PatternUsingRecursion {
     public static void main(String[] args)
     {
-         pattern2(5, 0);
+         //pattern2(5, 0);
          int[] arr={3,67,89,1};
          bubble(arr,arr.length-1,0);
          System.out.println(Arrays.toString(arr));
